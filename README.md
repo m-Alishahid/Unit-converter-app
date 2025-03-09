@@ -13,31 +13,25 @@ A simple **Unit Converter** built using **Python** and **Streamlit** that allows
 
 To run this project locally, follow these steps:
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 ```bash
-git clone https://github.com/your-username/unit-converter-app.git
+git clone https://github.com/your-m-Alishahid/unit-converter-app.git
 cd unit-converter-app
 ```
 
-### 2️⃣ Create a Virtual Environment (Optional but Recommended)
-```bash
-python -m venv venv
-source venv/bin/activate  # On macOS/Linux
-venv\Scripts\activate    # On Windows
-```
 
-### 3️⃣ Install Dependencies
+###  Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Run the App
+###  Run the App
 ```bash
 streamlit run unit_converter.py
 ```
 
 ## 🌍 Live Demo
-Try the deployed version: [Unit Converter](https://your-streamlit-app-link)
+Try the deployed version: [Unit Converter](https://convert-any.streamlit.app/)
 
 ## 🛠 Dependencies
 
